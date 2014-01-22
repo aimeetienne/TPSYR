@@ -1,14 +1,14 @@
 #surefire
-#Wed Jan 22 09:09:23 CET 2014
-testClassesDirectory=H\:\\windows\\Documents\\SYRTP\\tpmaven\\target\\test-classes
+#Wed Jan 22 15:07:56 CET 2014
+testClassesDirectory=h\:\\windows\\git\\tpmavenrepo\\tpmaven\\target\\test-classes
 classPathUrl.2=w\:\\mavenrepository\\junit\\junit\\3.8.1\\junit-3.8.1.jar
 useManifestOnlyJar=true
-classPathUrl.1=H\:\\windows\\Documents\\SYRTP\\tpmaven\\target\\classes
-reportsDirectory=H\:\\windows\\Documents\\SYRTP\\tpmaven\\target\\surefire-reports
-classPathUrl.0=H\:\\windows\\Documents\\SYRTP\\tpmaven\\target\\test-classes
+classPathUrl.1=h\:\\windows\\git\\tpmavenrepo\\tpmaven\\target\\classes
+reportsDirectory=h\:\\windows\\git\\tpmavenrepo\\tpmaven\\target\\surefire-reports
+classPathUrl.0=h\:\\windows\\git\\tpmavenrepo\\tpmaven\\target\\test-classes
 dirscanner.0=directoryScannerOptions
 providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
-testSuiteDefinitionTestSourceDirectory=H\:\\windows\\Documents\\SYRTP\\tpmaven\\src\\test\\java
+testSuiteDefinitionTestSourceDirectory=h\:\\windows\\git\\tpmavenrepo\\tpmaven\\src\\test\\java
 surefireClassPathUrl.1=w\:\\mavenrepository\\org\\apache\\maven\\surefire\\surefire-api\\2.7.1\\surefire-api-2.7.1.jar
 surefireClassPathUrl.0=w\:\\mavenrepository\\org\\apache\\maven\\surefire\\surefire-junit3\\2.7.1\\surefire-junit3-2.7.1.jar
 report.2=org.apache.maven.surefire.report.XMLReporter
@@ -17,7 +17,7 @@ report.1=org.apache.maven.surefire.report.BriefFileReporter
 report.0=org.apache.maven.surefire.report.ForkingConsoleReporter
 excludes0=**/*$*
 isTrimStackTrace=true
-dirscanner.0.params=H\:\\windows\\Documents\\SYRTP\\tpmaven\\target\\test-classes|[**/Test*.java, **/*Test.java, **/*TestCase.java]|[**/*$*]
+dirscanner.0.params=h\:\\windows\\git\\tpmavenrepo\\tpmaven\\target\\test-classes|[**/Test*.java, **/*Test.java, **/*TestCase.java]|[**/*$*]
 enableAssertions=true
 includes2=**/*TestCase.java
 failIfNoTests=false

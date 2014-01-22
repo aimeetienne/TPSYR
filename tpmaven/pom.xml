@@ -67,13 +67,21 @@
 			</plugin>
 
 
-			<plugin>
+<!-- 			<plugin> -->
 
-				<groupId>org.apache.maven.plugins</groupId>
+<!-- 				<groupId>org.apache.maven.plugins</groupId> -->
 
-				<artifactId>maven-changelog-plugin</artifactId>
-			</plugin>
+<!-- 				<artifactId>maven-changelog-plugin</artifactId> -->
+<!-- 			</plugin> -->
 
 		</plugins>
 	</reporting>
+	
+	<scm>
+
+<connection>scm:git:https://github.com/aimeetienne/TPSYR</connection>
+<url>https://github.com/aimeetienne/TPSYR/blob/master/</url>
+
+</scm>
+	
 </project>

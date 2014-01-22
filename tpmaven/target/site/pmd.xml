@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<pmd version="4.2.5" timestamp="2014-01-22T15:24:00.944">
+<pmd version="4.2.5" timestamp="2014-01-22T15:41:23.547">
 <file name="h:\windows\git\tpmavenrepo\tpmaven\src\main\java\fr\istic\master1\sir\tpmaven\App.java">
 <violation beginline="11" endline="11" begincolumn="21" endcolumn="25" rule="UnusedPrivateField" ruleset="Unused Code Rules" package="fr.istic.master1.sir.tpmaven" class="App" variable="test2" externalInfoUrl="http://pmd.sourceforge.net/rules/unusedcode.html#UnusedPrivateField" priority="3">
 Avoid unused private fields such as 'test2'.
